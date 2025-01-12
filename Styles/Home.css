@@ -1,0 +1,304 @@
+/* Nav styles */
+.fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-size: 32;
+    font-style: normal;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+.btn-primary {
+    background-color: white;
+    color: #006A50;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-family: "Fira Sans";
+    font-weight: 600;
+    border-color: #006A50;
+}
+
+/* Banner styles */
+
+div h4 {
+    color: lightslategray;
+}
+
+.btn-second {
+    background-color: #006A50;
+    color: white;
+    padding: 17px 34px;
+    border-radius: 8px;
+    font-family: "Fira Sans";
+    font-weight: 600;
+    border: none;
+}
+
+.Banner-picture {
+    width: 329.8;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    margin: 160px;
+    padding: 70px 70px;
+}
+
+.banner-content {
+    width: 622px;
+    justify-content: left;
+
+}
+
+.section-title {
+    font-family: "Fira Sans";
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+}
+
+.green-bg {
+    background-color: #C6E4D6;
+    margin: 0 160px;
+    height: 560px;
+    border-radius: 24px;
+}
+
+/* main styles*/
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/*section */
+.section-title {
+
+    justify-content: left;
+}
+
+.the-vision-of-future {
+    font-family: "Fira Sans", serif;
+
+    font-style: normal;
+
+}
+
+.btn-third {
+    background-color: #5490F5;
+    color: white;
+    padding: 11px 20px;
+    border-radius: 8px;
+    font-family: "Fira Sans";
+    font-weight: 600;
+    border: none;
+}
+
+.btn-fourth {
+    background-color: #09A15C;
+    color: white;
+    padding: 11px 20px;
+    border-radius: 8px;
+    font-family: "Fira Sans";
+    font-weight: 600;
+    border: none;
+}
+
+.btn-fifth {
+    background-color: #FFC239;
+    color: white;
+    padding: 11px 20px;
+    border-radius: 8px;
+    font-family: "Fira Sans";
+    font-weight: 600;
+    border: none;
+}
+
+.first-card {
+    background-color: #d0dcf1;
+    margin: 0 160px;
+    height: 350px;
+    border-radius: 24px;
+    padding: 100px 100px;
+
+}
+
+.second-card {
+    background-color: #C6E4D6;
+    margin: 0 160px;
+    height: 350px;
+    border-radius: 24px;
+    padding: 100px 100px;
+
+}
+
+.third-card {
+    background-color: #FFF7DF;
+    margin: 0 160px;
+    height: 350px;
+    border-radius: 24px;
+    padding: 100px 100px;
+
+
+
+}
+
+.vision {
+    display: flex;
+    justify-content: center;
+    margin: 0 100px;
+    padding: 7px 7px;
+}
+
+.section-title {
+    margin: 0 160px;
+    justify-content: left;
+}
+
+.the-vision-of-future {
+    justify-content: left;
+    margin: 0 160px;
+}
+
+.time-date {
+    display: flex;
+}
+
+.merge {
+    display: flex;
+    justify-content: space-between;
+    margin: 24px;
+    background-color: white;
+}
+
+.btn {
+    background-color: #006A50;
+    color: white;
+    padding: 17px 34px;
+    border-radius: 8px;
+    font-family: "Fira Sans";
+    font-weight: 600;
+    border: none;
+
+}
+.satellite-image{
+    border-radius: 24px;
+}
+
+.satellite {
+    padding: 0 15px;
+}
+
+.one-card {
+    background: #7a3d3d;
+    padding: 20px 20px;
+
+    border-radius: 16px;
+
+    box-sizing: content-box;
+    text-align: center;
+    margin: 0 40px;
+    vertical-align: 24px;
+    row-gap: 5px;
+
+}
+
+.two-card {
+    background: #7a3d3d;
+    padding: 20px 20px;
+
+    border-radius: 16px;
+    margin: 0 40px;
+    box-sizing: content-box;
+    text-align: center;
+
+    vertical-align: 24px;
+    row-gap: 5px;
+}
+
+.three-card {
+    background: #7a3d3d;
+    padding: 20px 20px;
+
+    border-radius: 16px;
+
+    box-sizing: content-box;
+    text-align: center;
+    margin: 0 40px;
+    vertical-align: 24px;
+    row-gap: 5px;
+}
+
+.four-card {
+    background: #7a3d3d;
+    padding: 20px 20px;
+
+    border-radius: 16px;
+
+    box-sizing: content-box;
+    text-align: center;
+    margin: 0 40px;
+    vertical-align: 14px;
+    row-gap: 5px;
+}
+
+.taka-card {
+    display: flex;
+    gap: 60px;
+    align-content: center;
+    width: 100%
+}
+
+.input {
+    text-align: center;
+    margin: 5px 40px;
+    height: 64px;
+    width: 80%;
+    align-content: center;
+
+
+}
+.text-center{
+    
+    background-color: #006A50;
+    color: white;
+    padding: 17px 34px;
+    border-radius: 8px;
+    font-family: "Fira Sans";
+    font-weight: 600;
+    border: none;
+   
+    align-content: center;
+    margin: 5 0px;
+}
+.full-bg-ash{
+    background-color: #F5F5F5 ;
+}
+.email{
+    gap: 24px;
+    height: 55px;
+    width: 600px;
+    border-radius: 9px;
+    border: none;
+    text-align: center;
+}
+.input-mail{
+    display: flex;
+}
+.green-bg-two{
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    gap: 64px;
+    height: 395px;
+    width: 1280px;
+    border-radius: 24px;
+}
